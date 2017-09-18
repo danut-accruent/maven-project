@@ -20,6 +20,7 @@ tmp/**/*
 *.tmp
 *.bak
 *.swp
+*.log
 *~.nib
 local.properties
 .settings/
@@ -49,6 +50,7 @@ target/
 src/main/api/.repository/ 
 =======
 target/
+activemq-data/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
